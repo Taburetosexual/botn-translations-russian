@@ -39,7 +39,7 @@ msgstr "Формурия?"
 #: /Game/Dialogue/AmberMae/Default/AmberMaeDefault01_SuckJugs.Default__AmberMaeDefault01_SuckJugs_C.SessionData.Lines(3).Lines
 msgctxt ",014BFFCA4F173DACEC2A00A8398888F4"
 msgid "Aye, yer not leaving 'til you suck every last drop!"
-msgstr "А-а, ты не уйдёшь пка не высосишь всё до пследней капли"
+msgstr "А-а, ты не уйдёшь пока не высосешь всё до последней капли"
 
 #. Key:	017CCB4443E3658AEA961E9EDC5B53BF
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(4).LinesToFuta
@@ -60,7 +60,7 @@ msgstr "В таком случае, тебе должны понравится �
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 - Value).TravelShrines.ShrineName
 msgctxt ",01DB8D8A43F7EC40F07FB3A355D39722"
 msgid "Cove of Rapture"
-msgstr "Бухта Восторга"
+msgstr "Бухта Наслаждения"
 
 #. Key:	01DE9F6A42AB1019681AE1B74E68632C
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaGreeting01.Default__NeelaGreeting01_C.SessionData.Lines(0).Lines
@@ -95,7 +95,7 @@ msgstr "Кажется мой род завется у вас Лиасис. Др
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm_RL_T.Default__LeylannaDefault01_RechargeSpiritForm_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",02FDE6D44BCEE7E9CD0113AACDF9C4E2"
 msgid "This is getting weird..."
-msgstr "Становится все страньше и страньше..."
+msgstr "Становится все страннее и страннее..."
 
 #. Key:	034A5C0F4CB9984BC7F902A4AE65BB8A
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R05.Default__CamillaDefault01_R05_C.SessionData.Lines(0).Lines
@@ -116,7 +116,7 @@ msgstr "Телесные жидкоси Титана"
 #: /Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToMale(4).LinesToMale
 msgctxt ",035F52234F8DA96ED37A5AAC5DD88039"
 msgid "Ahh, plant your delicious seed in my little body! Give me... ohhh... all of it!"
-msgstr "Ахх, вскорми своим семенем мое тело! Залей... Оххх... его все!"
+msgstr "Ахх, вскорми своим семенем мое телце! Залей... Оххх... их все!"
 
 #. Key:	03BD054E4D9907C2DF497EA4DCC0D8C3
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(6).LinesToFemale
@@ -130,14 +130,14 @@ msgstr "Меня зовут Фэйлин, я ведущий специалист
 #: /Game/Dialogue/Fern/Default/FernDefault01_RL_T.Default__FernDefault01_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",03C3FCAE4B8424BCF5F580BC933E08E8"
 msgid "Why did you call me master?"
-msgstr "Почему ты завешь меня мастером?"
+msgstr "Почему ты зовешь меня мастером?"
 
 #. Key:	03FDE484412EB5432BA89A9FF52176AD
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieSplintersT.Default__CassieSplintersT_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/Cassie/SexScenes/CassieSplintersT.Default__CassieSplintersT_C.SessionData.Lines(3).Lines
 msgctxt ",03FDE484412EB5432BA89A9FF52176AD"
 msgid "Meow! It feels so good! I'm going to get kitty cum all over myself!"
-msgstr "Мьяу! Как хорошо! Этак киска собирается обкончать всю себя!"
+msgstr "Мьяу! Как хорошо! Эта киска собирается обкончать всю себя!"
 
 #. Key:	04205AC945DE4E603D9147AFE4BB7547
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleT.Default__NeelaSnakeCuddleT_C.SessionData.Lines(0).Lines
@@ -221,7 +221,7 @@ msgstr "Ферн поможет маштеру! Ферн будет доить �
 #: /Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(8).Lines
 msgctxt ",06F45D04453307E37897C89FC16861F0"
 msgid "Well, I'm sure you best be get'n off!"
-msgstr "Да, я уверена, тьбе луче убратса отседа!"
+msgstr "Да, я уверена, тебе луче убратьса отседа!"
 
 #. Key:	070169104C3375DAB052E18982B50AE4
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(3).LinesToMale
